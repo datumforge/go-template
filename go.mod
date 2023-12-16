@@ -6,7 +6,7 @@ require (
 	github.com/99designs/gqlgen v0.17.40
 	github.com/Yamashou/gqlgenc v0.16.0
 	github.com/mitchellh/go-homedir v1.1.0
-	github.com/pressly/goose/v3 v3.16.0
+	github.com/pressly/goose/v3 v3.17.0
 	github.com/spf13/cobra v1.8.0
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.17.0
@@ -41,7 +41,7 @@ require (
 	golang.org/x/exp v0.0.0-20231110203233-9a3e6036ecaa // indirect
 	golang.org/x/mod v0.14.0 // indirect
 	golang.org/x/sync v0.5.0 // indirect
-	golang.org/x/sys v0.14.0 // indirect
+	golang.org/x/sys v0.15.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/tools v0.15.0 // indirect
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
